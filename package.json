@@ -1,0 +1,16 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "calculator for freecodecamp project",
+  "main": "code.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "calculator",
+    "fcc",
+    "freecodecamp"
+  ],
+  "author": "Santiago Rey",
+  "license": "ISC"
+}
